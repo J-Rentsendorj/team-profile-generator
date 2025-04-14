@@ -21,3 +21,9 @@ The Team Profile Generator is a Node.js command-line application that helps mana
    ```bash
    git clone https://github.com/yourusername/team-profile-generator.git
    cd team-profile-generator
+
+## Video Walkthrough
+
+
+https://github.com/user-attachments/assets/df146da5-498d-4c4a-8ecc-c3c89fca4b8d
+
